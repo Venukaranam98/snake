@@ -1,0 +1,45 @@
+h2{
+    text-align: left;
+}.heading{
+    text-align: center;
+    
+}
+.hi{
+    /* color: black; */
+    text-align: center;
+    
+}
+body{
+    /* background-color: #F8F4E1; */
+    background-image: url("bhaai2.jpg");
+    /* background-position: center; */
+    background-size: cover;
+    color: white;
+    /* background-repeat: no-repeat; */
+    height: 100vh;
+}
+button{
+    background-color: #BE3D2A;
+    color: #F8F4E1;
+    border: 1px solid black;
+    text-transform: capitalize;
+}
+.btns{
+    text-align: center;
+}
+.hello{
+    text-align: center;
+}
+.hm{
+    color: #BE3D2A;
+}
+.contact{
+    text-align: center;
+    color: #BE3D2A;
+}.name{
+    color: #604652;
+    font-size: 50px;
+}
+button:hover{
+    color: #fff;
+}
